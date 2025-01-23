@@ -16,26 +16,34 @@ if the CEOs are paying less relative to their income for boats than regular peop
 
 Now, rather than looking at pure CEO average, we want to look at the CEOs who are in the top 0.1%. The CEOs who over 50% of the american workers work for. The big corporations, the publically traded ones, Walmart, Apple, Google, United Healthcare, etc. There will be a lot of normal ceos who run normal businesses and they will bring the average down. The oligarchs who will have Trump's ear, the ones flying into Mar-a-lago.
 
+## Data
+- Egg Prices: https://data.bls.gov/pdq/SurveyOutputServlet
+- Median Income: https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-people.html
+
 ## Where to find data
-Everything can most likely be found as a CSV
+Everything can most likely be found as a sheet.
+
+sheet -> CSV -> database
 
 ### Egg Prices
 - USDA ERS (Economic Research Service): tracks food prices
 - BLS (Bureau of Labor Statistics) CPI: average retail food and energy prices dataset
 - FRED (Federal Reserve Economic Data): Series ID APU0000708111 for "Eggs, Grade A, Large (Cost per Dozen)"
 
+### Median Income
+- Census Bureau historical income tables
+- Social Security admin wage stats
+- BLS employement and earnings reports
+
 ### CEO Compensation
 - SEC Filings: Form DEF 14A, EDGAR database, legal requirement to dicslose executive compensation
+
+### Luxury goods
 
 ### Aggregated Sources
 - EPI (Economic Policy Institute): tracks CEO-to-worker compensation ratio
 - AFL-CIO Executive paywatch database
 - S&P ExecuComp database (paid)
-
-### Median Income
-- Census Bureau historical income tables
-- Social Security admin wage stats
-- BLS employement and earnings reports
 
 ### Factors to consider
 - how many dozens of eggs bought in a year
