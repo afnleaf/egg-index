@@ -18,7 +18,10 @@ Now, rather than looking at pure CEO average, we want to look at the CEOs who ar
 
 ## Data
 - Egg Prices: https://data.bls.gov/pdq/SurveyOutputServlet
-- Median Income: https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-people.html
+- Median Income:
+    - https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-people.html
+    - https://www.bls.gov/opub/ted/2024/median-weekly-earnings-1227-for-men-1021-for-women-first-quarter-2024.htm
+    - https://www.bls.gov/news.release/pdf/wkyeng.pdf
 - CEO Compensation: https://www.epi.org/publication/ceo-pay-in-2023/
 
 ## Where to find data
