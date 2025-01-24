@@ -2,7 +2,7 @@
 <g class="g-chart">
 <g class="g-title" transform="translate(400,25)">
 <text dy=".35em" fill="#777" font-family="sans-serif" font-size="24px" text-anchor="middle" x="0" y="0">
-Line Chart
+Median Income vs CEO Income (Annual)
 </text>
 </g>
 <g class="x-axis" transform="translate(60,550)">
@@ -10,71 +10,65 @@ Line Chart
 <g class="tick" transform="translate(0,0)">
 <line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
 <text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
-0
+1980
 </text>
 </g>
-<g class="tick" transform="translate(70,0)">
+<g class="tick" transform="translate(77.77778,0)">
 <line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
 <text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
-20
+1985
 </text>
 </g>
-<g class="tick" transform="translate(140,0)">
+<g class="tick" transform="translate(155.55556,0)">
 <line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
 <text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
-40
+1990
 </text>
 </g>
-<g class="tick" transform="translate(210.00002,0)">
+<g class="tick" transform="translate(233.33334,0)">
 <line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
 <text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
-60
+1995
 </text>
 </g>
-<g class="tick" transform="translate(280,0)">
+<g class="tick" transform="translate(311.1111,0)">
 <line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
 <text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
-80
+2000
 </text>
 </g>
-<g class="tick" transform="translate(350,0)">
+<g class="tick" transform="translate(388.88892,0)">
 <line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
 <text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
-100
+2005
 </text>
 </g>
-<g class="tick" transform="translate(420.00003,0)">
+<g class="tick" transform="translate(466.6667,0)">
 <line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
 <text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
-120
+2010
 </text>
 </g>
-<g class="tick" transform="translate(490,0)">
+<g class="tick" transform="translate(544.44446,0)">
 <line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
 <text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
-140
+2015
 </text>
 </g>
-<g class="tick" transform="translate(560,0)">
+<g class="tick" transform="translate(622.2222,0)">
 <line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
 <text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
-160
-</text>
-</g>
-<g class="tick" transform="translate(630,0)">
-<line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
-<text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
-180
+2020
 </text>
 </g>
 <g class="tick" transform="translate(700,0)">
 <line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="0" y1="0" y2="6"/>
 <text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="middle" transform="rotate(0,0,16)" x="0" y="16">
-200
+2025
 </text>
 </g>
 <text fill="#777" font-family="sans-serif" font-size="14px" text-anchor="middle" transform="rotate(0)" x="350" y="42">
-Custom X Axis Label
+Year
 </text>
 </g>
 <g class="y-axis" transform="translate(60,90)">
@@ -88,94 +82,625 @@ Custom X Axis Label
 <g class="tick" transform="translate(0,414)">
 <line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="-6" y1="0" y2="0"/>
 <text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="end" transform="rotate(0,-12,0)" x="-12" y="0">
-10
+10000
 </text>
 </g>
 <g class="tick" transform="translate(0,368)">
 <line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="-6" y1="0" y2="0"/>
 <text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="end" transform="rotate(0,-12,0)" x="-12" y="0">
-20
+20000
 </text>
 </g>
 <g class="tick" transform="translate(0,322)">
 <line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="-6" y1="0" y2="0"/>
 <text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="end" transform="rotate(0,-12,0)" x="-12" y="0">
-30
+30000
 </text>
 </g>
 <g class="tick" transform="translate(0,276)">
 <line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="-6" y1="0" y2="0"/>
 <text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="end" transform="rotate(0,-12,0)" x="-12" y="0">
-40
+40000
 </text>
 </g>
 <g class="tick" transform="translate(0,230)">
 <line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="-6" y1="0" y2="0"/>
 <text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="end" transform="rotate(0,-12,0)" x="-12" y="0">
-50
+50000
 </text>
 </g>
 <g class="tick" transform="translate(0,184)">
 <line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="-6" y1="0" y2="0"/>
 <text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="end" transform="rotate(0,-12,0)" x="-12" y="0">
-60
+60000
 </text>
 </g>
 <g class="tick" transform="translate(0,138)">
 <line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="-6" y1="0" y2="0"/>
 <text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="end" transform="rotate(0,-12,0)" x="-12" y="0">
-70
+70000
 </text>
 </g>
 <g class="tick" transform="translate(0,92)">
 <line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="-6" y1="0" y2="0"/>
 <text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="end" transform="rotate(0,-12,0)" x="-12" y="0">
-80
+80000
 </text>
 </g>
 <g class="tick" transform="translate(0,46)">
 <line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="-6" y1="0" y2="0"/>
 <text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="end" transform="rotate(0,-12,0)" x="-12" y="0">
-90
+90000
 </text>
 </g>
 <g class="tick" transform="translate(0,0)">
 <line shape-rendering="crispEdges" stroke="#bbbbbb" stroke-width="1px" x1="0" x2="-6" y1="0" y2="0"/>
 <text dy=".35em" fill="#777" font-family="sans-serif" font-size="12px" text-anchor="end" transform="rotate(0,-12,0)" x="-12" y="0">
-100
+100000
 </text>
 </g>
 <text fill="#777" font-family="sans-serif" font-size="14px" text-anchor="middle" transform="rotate(-90)" x="-230" y="-42">
-Custom Y Axis Label
+USD $$$
 </text>
 </g>
 <g class="g-view" transform="translate(60,90)">
 <g>
 <g class="line">
-<path d="M42,211.59999 L350,276 L420.00003,230 L630,138" fill="none" stroke="#1f77b4" stroke-width="2"/>
-<g class="scatter-point" transform="translate(42,211.59999)">
-<circle cx="0" cy="0" fill="#1f77b4" r="5"/>
-<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="0" y="-17">
-(12, 54)
-</text>
+<path d="M684.44446,459.24173 L668.8889,459.33023 L653.3333,459.3159 L637.7778,459.60052 L622.2222,459.6388 L606.6667,459.66513 L591.11115,459.5838 L575.55554,459.64838 L560,459.59814 L544.44446,459.40918 L528.8889,459.5168 L513.3334,459.54312 L497.7778,459.55988 L482.22223,459.57663 L466.6667,459.60294 L451.1111,459.60294 L435.55557,459.524 L420.00003,459.59814 L404.44446,459.68665 L388.88892,459.7082 L373.33334,459.67947 L357.7778,459.7034 L342.22223,459.75363 L326.66666,459.77756 L311.1111,459.78232 L295.55557,459.77036 L280,459.75122 L264.44446,459.74646 L248.8889,459.7345 L233.33334,459.77994 L217.77779,459.79428 L202.22223,459.78232 L186.66667,459.79428 L171.11111,459.76318 L155.55556,459.75842 L140,459.7608 L124.44445,459.81104 L108.88889,459.81342 L93.333336,459.7919 L77.77778,459.80865 L62.222225,459.7608 L46.666668,459.7871 L31.111113,459.7919 L15.555556,459.78473 L0,459.79907" fill="none" stroke="#f5f4df" stroke-width="2"/>
+<g class="scatter-point" transform="translate(684.44446,459.24173)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
 </g>
-<g class="scatter-point" transform="translate(350,276)">
-<circle cx="0" cy="0" fill="#1f77b4" r="5"/>
-<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="0" y="-17">
-(100, 40)
-</text>
+<g class="scatter-point" transform="translate(668.8889,459.33023)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
 </g>
-<g class="scatter-point" transform="translate(420.00003,230)">
-<circle cx="0" cy="0" fill="#1f77b4" r="5"/>
-<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="0" y="-17">
-(120, 50)
-</text>
+<g class="scatter-point" transform="translate(653.3333,459.3159)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
 </g>
-<g class="scatter-point" transform="translate(630,138)">
-<circle cx="0" cy="0" fill="#1f77b4" r="5"/>
-<text dy=".35em" fill="#333" font-family="sans-serif" font-size="14px" text-anchor="middle" x="0" y="-17">
-(180, 70)
-</text>
+<g class="scatter-point" transform="translate(637.7778,459.60052)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(622.2222,459.6388)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(606.6667,459.66513)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(591.11115,459.5838)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(575.55554,459.64838)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(560,459.59814)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(544.44446,459.40918)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(528.8889,459.5168)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(513.3334,459.54312)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(497.7778,459.55988)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(482.22223,459.57663)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(466.6667,459.60294)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(451.1111,459.60294)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(435.55557,459.524)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(420.00003,459.59814)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(404.44446,459.68665)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(388.88892,459.7082)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(373.33334,459.67947)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(357.7778,459.7034)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(342.22223,459.75363)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(326.66666,459.77756)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(311.1111,459.78232)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(295.55557,459.77036)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(280,459.75122)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(264.44446,459.74646)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(248.8889,459.7345)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(233.33334,459.77994)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(217.77779,459.79428)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(202.22223,459.78232)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(186.66667,459.79428)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(171.11111,459.76318)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(155.55556,459.75842)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(140,459.7608)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(124.44445,459.81104)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(108.88889,459.81342)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(93.333336,459.7919)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(77.77778,459.80865)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(62.222225,459.7608)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(46.666668,459.7871)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(31.111113,459.7919)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(15.555556,459.78473)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(0,459.79907)">
+<circle cx="0" cy="0" fill="#f5f4df" r="5"/>
+</g>
+</g>
+</g>
+<g>
+<g class="line">
+<path d="M684.44446,260.27722 L668.8889,260.452 L653.3333,273.148 L637.7778,283.222 L622.2222,294.147 L606.6667,290.444 L591.11115,301.99 L575.55554,307.51 L560,308.453 L544.44446,313.352 L528.8889,319.90698 L513.3334,325.358 L497.7778,327.15198 L482.22223,328.233 L466.6667,332.534 L451.1111,335.59302 L435.55557,338.123 L420.00003,337.77798 L404.44446,335.731 L388.88892,335.524 L373.33334,339.75598 L357.7778,345.322 L342.22223,349.163 L326.66666,351.463 L311.1111,354.085 L295.55557,354.867 L280,357.83398 L264.44446,362.043 L248.8889,365.884 L233.33334,370.50702 L217.77779,375.70502 L202.22223,380.213 L186.66667,383.663 L171.11111,386.055 L155.55556,388.30902 L140,388.815 L124.44445,390.172 L108.88889,392.1178 L93.333336,396.0738 L77.77778,400.0022 L62.222225,403.144 L46.666668,405.8856 L31.111113,408.3236 L15.555556,411.815 L0,414.3726" fill="none" stroke="#183166" stroke-width="2"/>
+<g class="scatter-point" transform="translate(684.44446,260.27722)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(668.8889,260.452)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(653.3333,273.148)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(637.7778,283.222)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(622.2222,294.147)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(606.6667,290.444)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(591.11115,301.99)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(575.55554,307.51)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(560,308.453)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(544.44446,313.352)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(528.8889,319.90698)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(513.3334,325.358)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(497.7778,327.15198)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(482.22223,328.233)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(466.6667,332.534)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(451.1111,335.59302)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(435.55557,338.123)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(420.00003,337.77798)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(404.44446,335.731)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(388.88892,335.524)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(373.33334,339.75598)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(357.7778,345.322)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(342.22223,349.163)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(326.66666,351.463)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(311.1111,354.085)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(295.55557,354.867)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(280,357.83398)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(264.44446,362.043)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(248.8889,365.884)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(233.33334,370.50702)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(217.77779,375.70502)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(202.22223,380.213)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(186.66667,383.663)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(171.11111,386.055)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(155.55556,388.30902)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(140,388.815)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(124.44445,390.172)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(108.88889,392.1178)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(93.333336,396.0738)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(77.77778,400.0022)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(62.222225,403.144)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(46.666668,405.8856)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(31.111113,408.3236)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(15.555556,411.815)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(0,414.3726)">
+<circle cx="0" cy="0" fill="#183166" r="5"/>
+</g>
+</g>
+</g>
+<g>
+<g class="line">
+<path d="M684.44446,-229540 L668.8889,-179978.11 L653.3333,-221036.13 L637.7778,-212087.89 L622.2222,-203139.67 L606.6667,-194191.42 L591.11115,-185243.2 L575.55554,-176294.94 L560,-167346.72 L544.44446,-158398.47 L528.8889,-149450.25 L513.3334,-140502.02 L497.7778,-131553.78 L482.22223,-122605.54 L466.6667,-113657.305 L451.1111,-104709.07 L435.55557,-144550.48 L420.00003,-184391.89 L404.44446,-188925.58 L388.88892,-193459.25 L373.33334,-197992.94 L357.7778,-202526.61 L342.22223,-207060.3 L326.66666,-211593.98 L311.1111,-216127.64 L295.55557,-184971.83 L280,-153951.06 L264.44446,-122930.3 L248.8889,-91909.52 L233.33334,-60888.758 L217.77779,-55516.99 L202.22223,-50145.21 L186.66667,-44773.44 L171.11111,-39401.67 L155.55556,-34029.9 L140,-28658.129 L124.44445,-27429.805 L108.88889,-26201.48 L93.333336,-24973.158 L77.77778,-23744.834 L62.222225,-22516.512 L46.666668,-21288.186 L31.111113,-20059.861 L15.555556,-18831.537 L0,-17603.215" fill="none" stroke="#488a2c" stroke-width="2"/>
+<g class="scatter-point" transform="translate(684.44446,-229540)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(668.8889,-179978.11)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(653.3333,-221036.13)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(637.7778,-212087.89)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(622.2222,-203139.67)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(606.6667,-194191.42)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(591.11115,-185243.2)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(575.55554,-176294.94)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(560,-167346.72)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(544.44446,-158398.47)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(528.8889,-149450.25)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(513.3334,-140502.02)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(497.7778,-131553.78)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(482.22223,-122605.54)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(466.6667,-113657.305)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(451.1111,-104709.07)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(435.55557,-144550.48)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(420.00003,-184391.89)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(404.44446,-188925.58)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(388.88892,-193459.25)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(373.33334,-197992.94)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(357.7778,-202526.61)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(342.22223,-207060.3)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(326.66666,-211593.98)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(311.1111,-216127.64)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(295.55557,-184971.83)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(280,-153951.06)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(264.44446,-122930.3)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(248.8889,-91909.52)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(233.33334,-60888.758)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(217.77779,-55516.99)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(202.22223,-50145.21)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(186.66667,-44773.44)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(171.11111,-39401.67)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(155.55556,-34029.9)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(140,-28658.129)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(124.44445,-27429.805)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(108.88889,-26201.48)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(93.333336,-24973.158)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(77.77778,-23744.834)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(62.222225,-22516.512)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(46.666668,-21288.186)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(31.111113,-20059.861)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(15.555556,-18831.537)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(0,-17603.215)">
+<circle cx="0" cy="0" fill="#488a2c" r="5"/>
+</g>
+</g>
+</g>
+<g>
+<g class="line">
+<path d="M684.44446,-413.21393 L668.8889,-145.61981 L653.3333,-350.95282 L637.7778,-20.293 L622.2222,16.603943 L606.6667,75.55551 L591.11115,-29.153534 L575.55554,52.42386 L560,15.028229 L544.44446,-180.01825 L528.8889,-57.043945 L513.3334,-18.317291 L497.7778,22.635803 L482.22223,64.57486 L466.6667,104.51077 L451.1111,124.33005 L435.55557,-106.35913 L420.00003,-147.77802 L404.44446,-17.547485 L388.88892,5.3718567 L373.33334,-69.00543 L357.7778,-65.01312 L342.22223,-1.2901917 L326.66666,25.376953 L311.1111,14.878265 L295.55557,54.978912 L280,84.01843 L264.44446,140.61642 L248.8889,199.41501 L233.33334,309.14294 L217.77779,323.39478 L202.22223,321.94067 L186.66667,338.10547 L171.11111,332.34344 L155.55556,343.77225 L140,362.15558 L124.44445,384.52484 L108.88889,386.7202 L93.333336,377.20544 L77.77778,382.7999 L62.222225,363.33508 L46.666668,374.44183 L31.111113,377.36526 L15.555556,373.80963 L0,380.45557" fill="none" stroke="#aa0000" stroke-width="2"/>
+<g class="scatter-point" transform="translate(684.44446,-413.21393)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(668.8889,-145.61981)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(653.3333,-350.95282)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(637.7778,-20.293)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(622.2222,16.603943)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(606.6667,75.55551)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(591.11115,-29.153534)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(575.55554,52.42386)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(560,15.028229)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(544.44446,-180.01825)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(528.8889,-57.043945)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(513.3334,-18.317291)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(497.7778,22.635803)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(482.22223,64.57486)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(466.6667,104.51077)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(451.1111,124.33005)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(435.55557,-106.35913)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(420.00003,-147.77802)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(404.44446,-17.547485)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(388.88892,5.3718567)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(373.33334,-69.00543)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(357.7778,-65.01312)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(342.22223,-1.2901917)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(326.66666,25.376953)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(311.1111,14.878265)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(295.55557,54.978912)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(280,84.01843)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(264.44446,140.61642)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(248.8889,199.41501)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(233.33334,309.14294)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(217.77779,323.39478)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(202.22223,321.94067)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(186.66667,338.10547)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(171.11111,332.34344)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(155.55556,343.77225)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(140,362.15558)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(124.44445,384.52484)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(108.88889,386.7202)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(93.333336,377.20544)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(77.77778,382.7999)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(62.222225,363.33508)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(46.666668,374.44183)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(31.111113,377.36526)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(15.555556,373.80963)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
+</g>
+<g class="scatter-point" transform="translate(0,380.45557)">
+<circle cx="0" cy="0" fill="#aa0000" r="5"/>
 </g>
 </g>
 </g>
