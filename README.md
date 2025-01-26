@@ -22,6 +22,8 @@ Now, rather than looking at pure CEO average, we want to look at the CEOs who ar
     - https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-people.html
     - https://www.bls.gov/opub/ted/2024/median-weekly-earnings-1227-for-men-1021-for-women-first-quarter-2024.htm
     - https://www.bls.gov/news.release/pdf/wkyeng.pdf
+    - https://www.demandsage.com/average-us-income/
+    - https://www.bls.gov/opub/ted/2024/median-weekly-earnings-of-full-time-workers-were-1145-in-the-fourth-quarter-of-2023.htm
 - CEO Compensation: https://www.epi.org/publication/ceo-pay-in-2023/
 
 ## Where to find data
